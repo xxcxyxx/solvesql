@@ -5,4 +5,4 @@
 SELECT *
 FROM points
 WHERE quartet = 'I'
-ORDER BY y ASC;
+ORDER BY y ASC;   
