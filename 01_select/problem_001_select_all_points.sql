@@ -4,3 +4,4 @@
 
 SELECT *
 FROM points;
+ 
